@@ -1,0 +1,1 @@
+# mappacarburanti-snapshot
