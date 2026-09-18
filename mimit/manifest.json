@@ -1,0 +1,21 @@
+{
+  "manifest_version": 1,
+  "extracted_on": "2026-09-17",
+  "prices_extracted_on": "2026-09-17",
+  "registry_extracted_on": "2026-09-17",
+  "prices_sha256": "0ab780c296b503304f44abbe4946abd3fa180391361c3c7e3330892f6fafd4d2",
+  "registry_sha256": "341fdb57ce95b986dc99aba40576a6d6c79b27f3bba05cf0f319b8e817936542",
+  "prices_rows": 92836,
+  "registry_rows": 24005,
+  "prices_bytes": 3942455,
+  "registry_bytes": 3585066,
+  "candidate_pairs": 48272,
+  "pairs_by_fuel": {
+    "benzina": 21101,
+    "gasolio": 21097,
+    "gpl": 4573,
+    "metano": 1501
+  },
+  "source_id": "04d5ed1eed50009009a6e5b097e8dc7e64a0276e65e4127bf061b4c220cfed80",
+  "source_synced_at": "2026-09-18T14:03:52.095Z"
+}
