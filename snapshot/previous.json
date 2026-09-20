@@ -1,0 +1,27 @@
+{
+  "generation": "2026-09-16-dbb828bc42eb",
+  "extracted_on": "2026-09-16",
+  "generated_at": "2026-09-17T11:44:06.714Z",
+  "source": "MIMIT",
+  "license": "CC0-1.0",
+  "homepage": "https://mappacarburanti.it/",
+  "fuels": {
+    "benzina": {
+      "file": "2026-09-16-dbb828bc42eb/benzina.json",
+      "count": 21071
+    },
+    "gasolio": {
+      "file": "2026-09-16-dbb828bc42eb/gasolio.json",
+      "count": 21114
+    },
+    "gpl": {
+      "file": "2026-09-16-dbb828bc42eb/gpl.json",
+      "count": 4573
+    },
+    "metano": {
+      "file": "2026-09-16-dbb828bc42eb/metano.json",
+      "count": 1501
+    }
+  },
+  "previous": "2026-09-15-2cd4382a9a21"
+}
