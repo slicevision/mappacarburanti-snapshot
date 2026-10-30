@@ -1,33 +1,33 @@
 {
-  "generation": "2026-10-27-3b3a7939ab61",
-  "extracted_on": "2026-10-27",
-  "source_id": "c2347ed6eef0c6e9c1342be009ef7950a5a439f9fe03ce721ae36482b73a8df5",
-  "source_ref": "40b69ad15ef67ef3981be8707bc1068d0d2cf788",
-  "source_synced_at": "2026-10-28T08:10:38.844Z",
-  "published_at": "2026-10-28T08:33:50.310165+00:00",
-  "generated_at": "2026-10-28T08:45:48.222Z",
+  "generation": "2026-10-28-2d5e55257d9a",
+  "extracted_on": "2026-10-28",
+  "source_id": "5215e997e61cd681158aa74f72c90fe372d2c08fc0e00bac13fb3f570008bb0e",
+  "source_ref": "1610c87d88d748c7fdbe972a673e4146c0fa44fe",
+  "source_synced_at": "2026-10-29T08:10:39.472Z",
+  "published_at": "2026-10-29T08:32:54.864623+00:00",
+  "generated_at": "2026-10-29T08:45:41.834Z",
   "source": "MIMIT via pinned mirror",
   "license": "CC0-1.0",
   "homepage": "https://mappacarburanti.it/",
   "fuels": {
     "benzina": {
-      "file": "2026-10-27-3b3a7939ab61/benzina.json",
+      "file": "2026-10-28-2d5e55257d9a/benzina.json",
       "count": 21075
     },
     "gasolio": {
-      "file": "2026-10-27-3b3a7939ab61/gasolio.json",
-      "count": 21117
+      "file": "2026-10-28-2d5e55257d9a/gasolio.json",
+      "count": 21118
     },
     "gpl": {
-      "file": "2026-10-27-3b3a7939ab61/gpl.json",
+      "file": "2026-10-28-2d5e55257d9a/gpl.json",
       "count": 4575
     },
     "metano": {
-      "file": "2026-10-27-3b3a7939ab61/metano.json",
-      "count": 1492
+      "file": "2026-10-28-2d5e55257d9a/metano.json",
+      "count": 1493
     }
   },
-  "content_hash": "642e4aa1cdee8a35265f4b88516cb112596f08b87aa482b32c458784f12bf7b2",
-  "changes_file": "2026-10-27-3b3a7939ab61/changes.json",
-  "previous": "2026-10-26-7d9754e4c4f7"
+  "content_hash": "100f2414ece96979bb890a2b76acc552e9f593379add2e19949cec6cc2f506be",
+  "changes_file": "2026-10-28-2d5e55257d9a/changes.json",
+  "previous": "2026-10-27-3b3a7939ab61"
 }
