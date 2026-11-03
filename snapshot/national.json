@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-11-02T08:45:47.095Z",
-  "date": "2026-11-01",
-  "extracted_on": "2026-11-01",
-  "published_at": "2026-11-02T08:32:30.485843+00:00",
-  "generation": "2026-11-01-24a3853ac1f3",
+  "generated_at": "2026-11-03T08:45:43.745Z",
+  "date": "2026-11-02",
+  "extracted_on": "2026-11-02",
+  "published_at": "2026-11-03T08:32:47.668614+00:00",
+  "generation": "2026-11-02-83f9f1d5d832",
   "source": "MIMIT Osservatorio Prezzi Carburanti",
   "license": "CC0-1.0",
   "homepage": "https://mappacarburanti.it",
-  "total_stations": 21519,
+  "total_stations": 21518,
   "fuels": {
     "benzina": {
-      "avg": 2.0117,
+      "avg": 2.0115,
       "min": 1.198,
       "max": 3.25,
       "count": 21082
     },
     "gasolio": {
-      "avg": 2.2424,
+      "avg": 2.2419,
       "min": 1.347,
       "max": 2.899,
-      "count": 21126
+      "count": 21125
     },
     "gpl": {
-      "avg": 0.7882,
+      "avg": 0.7905,
       "min": 0.549,
       "max": 1.399,
-      "count": 4579
+      "count": 4577
     },
     "metano": {
-      "avg": 2.061,
+      "avg": 2.0679,
       "min": 0.1,
       "max": 4.999,
-      "count": 1490
+      "count": 1492
     }
   }
 }
