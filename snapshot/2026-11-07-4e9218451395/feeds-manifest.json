@@ -1,0 +1,883 @@
+{
+  "schema": 1,
+  "generation": "2026-11-07-4e9218451395",
+  "extracted_on": "2026-11-07",
+  "source_id": "2c6b353e8af2d7a79abfeb9421db514e13d9abb9ebd2585a9619f1153e78714e",
+  "source_ref": "98a49e32f08733f9dd6fd1eefc8d034b7264b14b",
+  "published_at": "2026-11-08T08:33:21.941752+00:00",
+  "counts": {
+    "citta": 108,
+    "provincia": 108,
+    "ranking": 1
+  },
+  "files": {
+    "snapshot/2026-11-07-4e9218451395/citta/agrigento.json": {
+      "sha256": "829ddbac663c5d335cb02aaf57792b512235d895b7bf15a9e5bdb0d393cf0a07",
+      "bytes": 7717
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/alessandria.json": {
+      "sha256": "39e910a81acc3139df64576bbae1bcab74460f433264b1eae951cb5e30f3ea94",
+      "bytes": 8869
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/ancona.json": {
+      "sha256": "24e69f283bd47e05564b156300bf99a65588e46ea0d82e02f446a6ff23fceda1",
+      "bytes": 8353
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/aosta.json": {
+      "sha256": "8156801b5c34e082afe08f572aa49088ee2dce7b7388595447caec2e053cd029",
+      "bytes": 6841
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/arezzo.json": {
+      "sha256": "0f4197a0b3a7d450408b8228f04607645d0f9460070ea552fb2fcb183c94307e",
+      "bytes": 10370
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/ascoli-piceno.json": {
+      "sha256": "c584f1a574d75ea23a5bd1c4008e68bbe4ef06828b445a7d63b58dc80de787c5",
+      "bytes": 8230
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/asti.json": {
+      "sha256": "596a780a0ddfa696a43e13372be268c02f1ed85423386662e3081c7daa4a6b3e",
+      "bytes": 8057
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/avellino.json": {
+      "sha256": "d53a3b5f4976bbf43f82a6f77a77acee9eeb65519bdd95f29021ae5d5d8a82ac",
+      "bytes": 9380
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/bari.json": {
+      "sha256": "b0d38e09fef8b33f624c20cac249d422ed117e3b8d511f061bb98b6a3b7344cf",
+      "bytes": 9976
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/barletta.json": {
+      "sha256": "ac5c78869936607ad7435d86b4a858f126032dffb1201f3cfb1f5f0ea08a8deb",
+      "bytes": 7753
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/belluno.json": {
+      "sha256": "43f99d4fc77f6be995b4820df9d4ff31acd3baf66f0b6ea41b02f1c8244c523f",
+      "bytes": 7502
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/benevento.json": {
+      "sha256": "96b7bc9fc17f6eb0cb8baf9fc4031e0be426037d2ad5bfb66d476d221e3fc212",
+      "bytes": 8418
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/bergamo.json": {
+      "sha256": "2c5eea10038ba56b240822d143c7b263f493013f64bdb2e07481a8c9c2d77209",
+      "bytes": 11386
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/biella.json": {
+      "sha256": "ec4d5c084ec5d5fdf773147a2e92f697d4d5f89a9904018a208a2d3ea3983406",
+      "bytes": 7719
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/bologna.json": {
+      "sha256": "8c355ee2c0649ac0a9cc016e5634b8ffac51d918eede56575a8b764bbca0d29d",
+      "bytes": 9872
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/bolzano.json": {
+      "sha256": "0b042d1918fd9cb9fccc2a0c7f2674f55070a007980dfc8f4fd6be8e503863de",
+      "bytes": 7926
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/brescia.json": {
+      "sha256": "1b757c85b59d302eede419dc273b57d5ba697950b3e53a54e30dd489cca7c9df",
+      "bytes": 10900
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/brindisi.json": {
+      "sha256": "a4e1c6d6b9f51d425b5274f1a81f8d49c0e0d73747d4ff8c2411fb5f9519650c",
+      "bytes": 8538
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/cagliari.json": {
+      "sha256": "33b9ba956e3a756f8542eb5d1fc82e1916948b816601a99be8c13732fd3c3d46",
+      "bytes": 7459
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/caltanissetta.json": {
+      "sha256": "87184595204c738bee1fa8b455ff212d652c8b02a8e10257a5af20d3a74e07b1",
+      "bytes": 7550
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/campobasso.json": {
+      "sha256": "6010cde0935492f1f1f72fd765fb88d0bb930dc670cb2dc6228fd9a00af4fcdd",
+      "bytes": 7305
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/carbonia.json": {
+      "sha256": "b6bcc03dd9554db1699a854f8fc09a950ecd92bfbdbae83d2dbd0b7e33b8b4e0",
+      "bytes": 6372
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/caserta.json": {
+      "sha256": "3e806e65cd67e01f1808ed41f23ffbb3df4a3a7cec7a1a5df88903fb8e34011c",
+      "bytes": 12470
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/catania.json": {
+      "sha256": "fa273e973c45a19451ae6fc0bdd932069df9499ac5ff9f149699a889949afa6f",
+      "bytes": 10819
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/catanzaro.json": {
+      "sha256": "90833e4e12474c8d46148e530c0bc12d2d5aa5b1120933cbe05ab6707aa9da64",
+      "bytes": 7679
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/chieti.json": {
+      "sha256": "907e334df4298b61368297fc2cc79c2e4a21d3f76482d026aa916b81e42cb0dc",
+      "bytes": 9659
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/como.json": {
+      "sha256": "ca9befc51fc0dc719e1277b6a34e49e85eb0f20dd6b49f3ec404f360d71be93f",
+      "bytes": 6592
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/cosenza.json": {
+      "sha256": "38da93c1ef91f958d3efcb14ae933fde46ca2d00464d030fcde4889fe1a157ef",
+      "bytes": 8160
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/cremona.json": {
+      "sha256": "31f6ca6f895040385b379f53186de01bd912f4f7c0a1f068057db6ca7841e2f6",
+      "bytes": 9424
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/crotone.json": {
+      "sha256": "f356b7b39c61a274ac16362758762c6f7d464cb9c234fe538cbd35cd2c1cfcdc",
+      "bytes": 7137
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/cuneo.json": {
+      "sha256": "bcd7f2f032143d6c024289b087244247f58f33d8a5b6fc141598d3da44c1a703",
+      "bytes": 9330
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/enna.json": {
+      "sha256": "1a9af54ca29526e3af8f13458b42bb27a8e7ddac1e522d294d3d35c071c8b699",
+      "bytes": 6524
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/fermo.json": {
+      "sha256": "86fbd659bddc7d36a2f32b8287ceb7428f1a18e65228319f02886deef2a4c0d9",
+      "bytes": 10659
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/ferrara.json": {
+      "sha256": "1ae10b684ad1e731cc9af2fda44e26b371b8de5488ef9e1d45b12fb768da65c5",
+      "bytes": 10323
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/firenze.json": {
+      "sha256": "62276292deb2e3e5c3ec7f9ccfc3cb3a2eacaddcbbb587675c63282a245eca87",
+      "bytes": 11711
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/foggia.json": {
+      "sha256": "79be8b55f0511bd94e323fdf203ebea988317b989100efdbe545e45150199eb5",
+      "bytes": 8863
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/forli.json": {
+      "sha256": "aa252fbb842c4c568a4191a8425268b3b3c2059089beae1791061180cdb42e3f",
+      "bytes": 10320
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/frosinone.json": {
+      "sha256": "439284b54461fad7c5b30ed7728d81bf2e55d234daa9286a711f28369477a4f2",
+      "bytes": 10387
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/genova.json": {
+      "sha256": "5825698a44a56aec78c2666cad28e6c0a8a12b0578e37a63b3eb6ab0ad6c5bee",
+      "bytes": 6877
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/gorizia.json": {
+      "sha256": "6da391d426bdf3f916bd0cc22211453602b20ee71c660df18ce6832cfa8d17cf",
+      "bytes": 5373
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/grosseto.json": {
+      "sha256": "bf6c28318c5cdbcb0d2693a286203db1802d3dcbe745534f6f30444e9a1c4bbc",
+      "bytes": 10185
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/imperia.json": {
+      "sha256": "7739f845d2604201411b623fc5ce66bf1ef14e7ee7896938b51e52526d602c12",
+      "bytes": 6620
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/isernia.json": {
+      "sha256": "29b1071a6c1f93ee047cebf26dc9f7703400592643891d983488bbc553b46f4c",
+      "bytes": 6579
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/la-spezia.json": {
+      "sha256": "d9f13e00ab70387133aa40ce67f9d93536065d821ebeaf450f51d2d4007ea084",
+      "bytes": 6761
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/laquila.json": {
+      "sha256": "bec6f3a8ce60d1538c8cfc05df27261d51d406bb1410dd90f0d68256b42637d4",
+      "bytes": 8062
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/latina.json": {
+      "sha256": "d820821fc47a732b98b058a2682a6f35b05578acdc706d5f023b8bcd7d06ee4a",
+      "bytes": 10289
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/lecce.json": {
+      "sha256": "d6ada6c62adb8bd8c93dd622956e1b55b23b012f69a09a3887d7f0b114b5c288",
+      "bytes": 9190
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/lecco.json": {
+      "sha256": "f1d371a886b27aaee171377cbde8907791a8bf56777922097c9a041d155c0e7b",
+      "bytes": 6312
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/livorno.json": {
+      "sha256": "09fdd24a8c605567945b38915bbfb2ac4dd3d13886651a2dc166e057d27bc51f",
+      "bytes": 9216
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/lodi.json": {
+      "sha256": "6c8d3e4dbeb96c185ec76a2c7ace20f23ac2f3f44a8b86559ea43eaa3a1d1819",
+      "bytes": 8045
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/lucca.json": {
+      "sha256": "0714c1dede54c97a237df03ec222c71c4e394a40eddb486781f6b87912823e4b",
+      "bytes": 8476
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/macerata.json": {
+      "sha256": "89b11b5b43d8e4943cf3aa7f8e318ec1d03df2289a46a7934ab9b7fea0c14b45",
+      "bytes": 9869
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/mantova.json": {
+      "sha256": "3ba2986126a756261ec5e3788de12fca53dd9868236ebb55e2242854e6507a6c",
+      "bytes": 10031
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/massa.json": {
+      "sha256": "b883530eaca920c71d236ba93f9d537bbc44f6cb84c6effcf4939c5b0f8358cf",
+      "bytes": 7737
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/matera.json": {
+      "sha256": "a243f92f213f53ecfcf8fad479f3975d2866a14c211c3cd3f4d2d36c1c109170",
+      "bytes": 7700
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/messina.json": {
+      "sha256": "49f0731576ba5e9415e5ab9ea3b7d870d04d859661a91734f90b5c24e1754c29",
+      "bytes": 7275
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/milano.json": {
+      "sha256": "1fc65e39209eba0578282119929e2b6184548ee4a50f73be1a6575ee45762c5c",
+      "bytes": 11008
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/modena.json": {
+      "sha256": "e5e172e1406bdda4bf19fec4a573d3a7e3440193c316ca16629793c16c556570",
+      "bytes": 10809
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/monza.json": {
+      "sha256": "5dfae3ea0ed71d2572990cd56186a0862f81205dea9f11a4b564f25d2144a097",
+      "bytes": 9970
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/napoli.json": {
+      "sha256": "c5204cb14aed3b360da1a7f195b058ea761cfae9bfce1485452fb1f70778e09e",
+      "bytes": 10698
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/novara.json": {
+      "sha256": "a97e4d62dc468b536ab2a64bdc4875e54402b119785531e1c0ea875becae72d2",
+      "bytes": 9508
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/nuoro.json": {
+      "sha256": "9869840b74cc0c844cf54225237486ec41aa6eb97d2fae64a481ef31feef9849",
+      "bytes": 6589
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/oristano.json": {
+      "sha256": "9fb28b6dd7eca6a00ab33ea0b25a259ad12498a4685db87068f5e7411590a9f6",
+      "bytes": 6668
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/padova.json": {
+      "sha256": "0623cee167c39502d4bfd1c619e6609cffe9910a80877ac5432816ff5513825f",
+      "bytes": 10864
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/palermo.json": {
+      "sha256": "74db4121e894df90939cc6813b700f40093eeffde51c39a47a56de7e4d2c9bee",
+      "bytes": 9889
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/parma.json": {
+      "sha256": "33efad0852e218bb44f28789a9deb0bf85b26fe0525e01ce9b423353541973cf",
+      "bytes": 11104
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/pavia.json": {
+      "sha256": "9bf97914873e374a4d90466c9dea2835d58a93edacf91caa56e7a9f559a83d7a",
+      "bytes": 9572
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/perugia.json": {
+      "sha256": "ca8e9739530767fcb67a274234ebd6b60b06ecdf2bc56694ef5748cd006712e1",
+      "bytes": 10724
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/pesaro.json": {
+      "sha256": "20ebd833a4887a5581b3074e4ce59cd46fc6dc7788ea5499981e006ebda27285",
+      "bytes": 8871
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/pescara.json": {
+      "sha256": "8772814cdfee5767efe6787df279ea0ab8118d4a7b29f3c21eac1d03844d183c",
+      "bytes": 8740
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/piacenza.json": {
+      "sha256": "b2014ae38efa23ab0c2b260b9d12f8bbe1574fb5b97e158c8e361af7bc09ad0f",
+      "bytes": 9463
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/pisa.json": {
+      "sha256": "62f003429df9be4b857c0929cf36e3d9a67afa55a8146f39f323e66ac1a84bc4",
+      "bytes": 10139
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/pistoia.json": {
+      "sha256": "5a4927ac7870dcb7f6e05de1c42bcb9950c97ad72037de210642f71abc9f1fcc",
+      "bytes": 9611
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/pordenone.json": {
+      "sha256": "8875b5f3c51b53a54a296452eb3bc2025b46466b14ad99a0db33948bb6e447ea",
+      "bytes": 8586
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/potenza.json": {
+      "sha256": "1d4e6c275a88b2e7d67efc73dd322137f134423791d333f2e2a849a7c212b367",
+      "bytes": 7995
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/prato.json": {
+      "sha256": "d2ed42919b3e1bec158d0343e7b8847e128fd4349b1156d81c308f102ec7eefe",
+      "bytes": 10705
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/ragusa.json": {
+      "sha256": "e8eec57644389c721ef672081d7fe86c836e4384ae57228c4d4f452db709e8ee",
+      "bytes": 8164
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/ravenna.json": {
+      "sha256": "33b002b494a17c730c537515cdb78af64de90f8d3935b5b64cfa406dc616e7da",
+      "bytes": 10094
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/reggio-calabria.json": {
+      "sha256": "490cd8e3482803bc3ab752109bc4dc8d02aa4f3d1fbcfd5b5a06a616ec05ff30",
+      "bytes": 7403
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/reggio-emilia.json": {
+      "sha256": "9f2348b57e9c5acfb863594351dd2af609a41d5e1ff64ab804393d0ee38ac777",
+      "bytes": 11067
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/rieti.json": {
+      "sha256": "ae7bd2982ea3d8c8b68233bf4d30e6b18da79cec5a482b4ea4eb5da9ebbf88ef",
+      "bytes": 10639
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/rimini.json": {
+      "sha256": "b0e75f9eb4393323d5c09ea63f59c65d9930a2d034b7f04b8ad1a02f8acdfc22",
+      "bytes": 9422
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/roma.json": {
+      "sha256": "824965c2a029ae4bde7dd6d8967cc0dc84c14340fe9e2397003acba77ba359ef",
+      "bytes": 12041
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/rovigo.json": {
+      "sha256": "2a5ee7ae35864a53595aa3304c081cb21f3c27243ccc60eec0dd9b28a10128c3",
+      "bytes": 9734
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/salerno.json": {
+      "sha256": "b450d360865d54d0990d5778c8319d0a5c7a5907a7b3e0d98d088ff972781757",
+      "bytes": 9508
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/sassari.json": {
+      "sha256": "12a9e8fb2c0ae969dbbbbbb3cbb2ec6ac8368d7eaa64c35ff2e3cc8c645c747b",
+      "bytes": 6929
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/savona.json": {
+      "sha256": "09272328f16fa9e367638ddab5bf3dbdc41cef8e92ea7e396a03eff738c00ca9",
+      "bytes": 7007
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/siena.json": {
+      "sha256": "e39263f53d4f4d745ffd89a78c1fe05d0fb3134512386843138aa1fb4c2aa13b",
+      "bytes": 8571
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/siracusa.json": {
+      "sha256": "90817e4a95387fbd048c4c7a5fb17cb8ccf349dbf07836c04772fd0d73d66ca2",
+      "bytes": 7918
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/sondrio.json": {
+      "sha256": "39d5475eb163cc145cf9997308f9d416dfd8a70a5e3ffbef8463f45c0d38839f",
+      "bytes": 6388
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/taranto.json": {
+      "sha256": "cf097bbc6311accd300e769fb26135cd0197907707afaf5229d3dfdc6c38047b",
+      "bytes": 8133
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/teramo.json": {
+      "sha256": "ecd418db78d794844da5b21d61aad07f177ec5ffb3865a2ae877f7e8c23f16b2",
+      "bytes": 8894
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/terni.json": {
+      "sha256": "0419be4e6a5aded89eda77f8356218d685e164bf624a5b6e6619f3892390a439",
+      "bytes": 10016
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/torino.json": {
+      "sha256": "70cb816f086429b0571adda24d81d3c0982b0bb60a5c43b0867f77e4e778f060",
+      "bytes": 10630
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/trani.json": {
+      "sha256": "fcac352e79ea473f676247b1b158de4cd85b2553053cec236efa89309b9b69bf",
+      "bytes": 6252
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/trapani.json": {
+      "sha256": "ca7080a87a305355c240358dc4abc3559deff2259daafa1becfdc7f11461555d",
+      "bytes": 7687
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/trento.json": {
+      "sha256": "5bd485cee3595765af9b4f323432acef2bcb4319a16c032eb3ff2de7fc5b6b16",
+      "bytes": 7959
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/treviso.json": {
+      "sha256": "bd75cf210c237a34a24bb4d7f9aa18b891bdcb6a112203bb1d977b45dca38188",
+      "bytes": 9353
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/trieste.json": {
+      "sha256": "6ae5964c04e00ceed027994c9a0909f7b2a4726ab77433359605b5b28412c2e2",
+      "bytes": 5972
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/udine.json": {
+      "sha256": "c7e8dc246d3aaa7656129ac9408b191ab844e886bdf9f1d4a2f18823d4075f10",
+      "bytes": 9999
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/varese.json": {
+      "sha256": "d33a9c29011a5cb47e167f90f71076ca63dfadc5ecf79ac2c383fe5ce37a45df",
+      "bytes": 6057
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/venezia.json": {
+      "sha256": "7f88258feabb0dfcd244fd6a4b8601dd4c002bbe5370268e9b91d10dbcac6d63",
+      "bytes": 6473
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/verbania.json": {
+      "sha256": "86c61b28531d29fd28027a617a932e2579b5b9d41408c745883b31fb681385ac",
+      "bytes": 5984
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/vercelli.json": {
+      "sha256": "1e137abe334005894f6744bac935309a9c4cf20f8be1f389eb13bf22984a5cbf",
+      "bytes": 8095
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/verona.json": {
+      "sha256": "a832b17830ea7032be311c8033988696bd2d17322cd5f58cfad439cc4dd38c9e",
+      "bytes": 10812
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/vibo-valentia.json": {
+      "sha256": "d9626a340ba2858c0e076790c8f3ccff803dbe939b09dd2967cf02587cd7adb9",
+      "bytes": 7089
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/vicenza.json": {
+      "sha256": "3d464064fb8cfb03735d53cbd7686c87755cbaeea50999ef91bb7f915452e75d",
+      "bytes": 8761
+    },
+    "snapshot/2026-11-07-4e9218451395/citta/viterbo.json": {
+      "sha256": "14a669c164e514187d16c4648fe458bc26da758c9757bb6ae0752d2b32555bd9",
+      "bytes": 9267
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/agrigento.json": {
+      "sha256": "b954d23c0caf9bf9f369b5387a34171414696adb6484253093f21b2b347915e0",
+      "bytes": 8840
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/alessandria.json": {
+      "sha256": "ae3186c371771570ac62294c3859ca6e383fc10d0fe5c28db1ca021f41f52740",
+      "bytes": 11071
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/ancona.json": {
+      "sha256": "b22992d6e2ad18dfbdce8182a7bcf507a8d8b91ff1c9a434abefba43d0a97248",
+      "bytes": 11562
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/aosta.json": {
+      "sha256": "23b18f606675225992f038fe5f96010214d64a831f1583e04a56a49fb2b7f0d2",
+      "bytes": 7189
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/arezzo.json": {
+      "sha256": "206ebf062d4c789868d65abac80ba6a303f6974b55e5769019fdbb4b9e00549d",
+      "bytes": 11333
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/ascoli-piceno.json": {
+      "sha256": "0a2514f3e5bbbcb7db416ece1c68e272725a8bc693ffb0a1c4e5e67b298c9f26",
+      "bytes": 13309
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/asti.json": {
+      "sha256": "62883174a1887b0672e633c5552015388522cd216247a6d8229cc650addb33bb",
+      "bytes": 11095
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/avellino.json": {
+      "sha256": "0fd601b589b7f1e478e6f711c52c186c42ad8de30bc30de9e441c2655cb899a5",
+      "bytes": 11949
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/bari.json": {
+      "sha256": "2eefb76d1ba4dbf228c10cf3914d1e416d0018c4599fc8c3901af12af70fb573",
+      "bytes": 11100
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/barletta.json": {
+      "sha256": "f949ee8a9f93fcc7ce65d161d0dfd5c1c994f6f9c2f9236afa29d3caa6d42ef2",
+      "bytes": 11483
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/belluno.json": {
+      "sha256": "b60d149e24d40a2857014ccf6fd834edb4f4330a376be75006246bb143c3a8ba",
+      "bytes": 10757
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/benevento.json": {
+      "sha256": "0ed7d97c4d33df18ab35ae01005974b50a2a3b94a5fe631fe568fb45b4d70855",
+      "bytes": 11433
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/bergamo.json": {
+      "sha256": "aea6cd2b30575570fd594ab5334e47f652919cd2c1b1929c732e227b3d3b00e4",
+      "bytes": 11912
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/biella.json": {
+      "sha256": "c7d5027f1395f8a675e6a1d1c14d0c144f058cf389798d1ebc16317e113a25ca",
+      "bytes": 10914
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/bologna.json": {
+      "sha256": "1e0142894caccc9c72a19575527a9ee9c70ed4303e350d52b1b9d037151d778e",
+      "bytes": 11629
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/bolzano.json": {
+      "sha256": "8b8e65fc3c1a2e5534418cbe7caf96f4b110ccd2098a839e56e1b6c9bb6fec25",
+      "bytes": 10259
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/brescia.json": {
+      "sha256": "b7b5d7a7f000327e6a20c2b2a5a77599867e5b5fe2a43a347a145c2c93a74bee",
+      "bytes": 13064
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/brindisi.json": {
+      "sha256": "2bf488005bd0aa1b0713a40e7ddd33950596a4ca1f3c9148ad224274f01dca99",
+      "bytes": 11317
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/cagliari.json": {
+      "sha256": "34da5cf0f8db8884b15d29a56c9aba2f193a1a324a2d1f06f085633dfb03808a",
+      "bytes": 8327
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/caltanissetta.json": {
+      "sha256": "d9559a171731d03685a601bc9a202bdee0db41a5a8827b69435f6f0926a08024",
+      "bytes": 8955
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/campobasso.json": {
+      "sha256": "47c1dfa6019801dd3f30410a285e16913f9918c1b8d0971687d6d7c3fb6aa4df",
+      "bytes": 10358
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/carbonia.json": {
+      "sha256": "777ab007210fdb6e0f79f3c8e2e42b78772d5d75b334bb404b3ca23118657db8",
+      "bytes": 7410
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/caserta.json": {
+      "sha256": "fd67e291d1d0014805fbf1f03c09909f36e1d3b14bf95b793d1a57e904216967",
+      "bytes": 13615
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/catania.json": {
+      "sha256": "c9226c3896226577f537b30bd5fac2061a3cc5497c4ccc9aa7079b7d6e79bc90",
+      "bytes": 11643
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/catanzaro.json": {
+      "sha256": "d34a2581ccfe4844ab949847ee351a2d86fcd807fea5dff2d2a7889d34a54a57",
+      "bytes": 9442
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/chieti.json": {
+      "sha256": "817bdb60a34a8cb08e3dc241a46d304e467da5e65b67c93037fd017b0704f354",
+      "bytes": 11649
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/como.json": {
+      "sha256": "93f6629004a581222f6a449b8f36c4e580fc98171fe6f5c06163ec70225c1ed7",
+      "bytes": 11490
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/cosenza.json": {
+      "sha256": "fe22d1155c3f1c4a15e3016e3e1b5b3ad941df1d65baccd8408aced7e776d9dc",
+      "bytes": 10199
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/cremona.json": {
+      "sha256": "84039ad9f57bf7a0eb055102a399705b2dc002008de075f059374ec9a0cc1e05",
+      "bytes": 10913
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/crotone.json": {
+      "sha256": "8572ed5b01523407a186e9fa852af52a476e2c966da9d5b72c31c26e9bfbd45f",
+      "bytes": 8945
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/cuneo.json": {
+      "sha256": "022dfe46bc12e4d50a3644b31b6f64938e88db4d8b99cdc9ad6bf1286fdd4567",
+      "bytes": 10729
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/enna.json": {
+      "sha256": "9d6e110dcdd45933cda5d63c22e840d6cf25a48ba78e57ff4b378a98417e87e4",
+      "bytes": 9202
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/fermo.json": {
+      "sha256": "b7d960dc7ad2a08a6f191f97d77e921e3b826c90ca94c3dca893209428adbee1",
+      "bytes": 11500
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/ferrara.json": {
+      "sha256": "f7138a5d15a769a3251747e854851252c2a1fa38c4daefc6a2edb6477f7bea36",
+      "bytes": 14148
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/firenze.json": {
+      "sha256": "daa6cac78e336e60ca9d718547cd98902d8187bf58530c248d21b53ff0154de7",
+      "bytes": 12036
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/foggia.json": {
+      "sha256": "9a4fb461232fe1da73cc5858f022e670c37211f802398b0d591827708d3afaa0",
+      "bytes": 10726
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/forli.json": {
+      "sha256": "cfb4dfbfcbe2bb41f75b90fd702068d29643a676ee61df3f8e23139906a399d7",
+      "bytes": 11513
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/frosinone.json": {
+      "sha256": "b69dbb5e8e19408025bd64f88eada8e2b16cdcc9e49ad629b059b54d0834ee6e",
+      "bytes": 15257
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/genova.json": {
+      "sha256": "7c413927206be42788e3cd7adab1075b845c0f82929b8a8eceb8d54f661555eb",
+      "bytes": 9055
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/gorizia.json": {
+      "sha256": "c1d509a73ff13a1ef8924d2ab298a876b18acd688fcd43b339b683c72664ee99",
+      "bytes": 8743
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/grosseto.json": {
+      "sha256": "f9fc0cfa9adef3aa68d746c221a3e1ea7ea2ef8d229396428cbcaacfca6aff77",
+      "bytes": 11462
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/imperia.json": {
+      "sha256": "526295608cf1697e2c6cd23fedc235b0f1978d67a3431975512b200122b0627d",
+      "bytes": 7746
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/isernia.json": {
+      "sha256": "5c4e227b71d487b0dda72c553953075ec96f5c4e2441e4b3d8aa4586fb4da87e",
+      "bytes": 10577
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/la-spezia.json": {
+      "sha256": "c10113175866be93e2f781a305308c04c6c6cc4be40e30e15ab121f52c75bf76",
+      "bytes": 10725
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/laquila.json": {
+      "sha256": "e49bfc4e52170494699c0f663dde47f2b170e4e04f9f72dd7b2017492c413641",
+      "bytes": 9313
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/latina.json": {
+      "sha256": "46143aa26196ae41788eb6de9dc43efadc91e1ab0a2bb30a7e817bf9f9908cd8",
+      "bytes": 13195
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/lecce.json": {
+      "sha256": "5422f7683c86458dbb35ef721ee68cb40d7627e473cc9231007383792d0069d4",
+      "bytes": 11432
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/lecco.json": {
+      "sha256": "94f23dc1442f5ebb5a5c019f3051a4a1eebeff9779bbe57460c1535843be0f88",
+      "bytes": 11838
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/livorno.json": {
+      "sha256": "9d0b3271637a7de89ba038bbc6372ea2366c8294a03f5a4897a3e02d9641bb33",
+      "bytes": 11744
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/lodi.json": {
+      "sha256": "24e2926c9a61fe7c34b033d04a3c708f428a1a7b5f9351a9105674b3df8036e8",
+      "bytes": 12012
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/lucca.json": {
+      "sha256": "1abf5376c158f16449dde39453835de482cfb0484e4c0df4074b865c59aaa3fa",
+      "bytes": 12536
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/macerata.json": {
+      "sha256": "6578306f832a7cb54cf4d92422e0385fe4215acd47e512c3d8da2a01e3925f03",
+      "bytes": 12092
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/mantova.json": {
+      "sha256": "2b421919b0825483dafbdede117c4c3bc04cfb851b33c82edd7948c73bef21d5",
+      "bytes": 12429
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/massa.json": {
+      "sha256": "354e0b5763d938bb9f6d952ef5d57c90cb6700f49090251e4c712d24ec8bb231",
+      "bytes": 11102
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/matera.json": {
+      "sha256": "81dba286ce9206843dc3f26a3df9e6082a44163219a527ca754b5f104ce3e09f",
+      "bytes": 11471
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/messina.json": {
+      "sha256": "30369c21035fcdc866a01c1cb617342a6ff486abd81d159a8cd0a1c4a11927cd",
+      "bytes": 10513
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/milano.json": {
+      "sha256": "e7c635249e42136661c4b114afe9068eedd5a135762515d4c1ffcc31ae084c33",
+      "bytes": 12007
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/modena.json": {
+      "sha256": "ee6747946b1d40fc9a3e164ff78585ec2133acefa7c226c1318710ab32cfd185",
+      "bytes": 11113
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/monza.json": {
+      "sha256": "8c59a90ae74964eb0ff722a11cc7df49bd939b4f2b60f45617639554e1d4543f",
+      "bytes": 11719
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/napoli.json": {
+      "sha256": "2d746d9a3514370f91abe83dcc86ddb3da9c26b3e57413564a4a6cd031b55af2",
+      "bytes": 14082
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/novara.json": {
+      "sha256": "182298eed543a74263282e735986486968457eb3b434eeaef1fc6ce6992e0076",
+      "bytes": 11162
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/nuoro.json": {
+      "sha256": "2fdfdfbbdb37de074b89cc122775758a340a401ba4312dfff0a36607884378d9",
+      "bytes": 9163
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/oristano.json": {
+      "sha256": "b21471eeff91a226b049cbdfaa52678155e3a249630291c18301e8b4011198b0",
+      "bytes": 8527
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/padova.json": {
+      "sha256": "530f811af3bbbbbcf51ad01c985dc053d7adb2fd2a5cf259f66652f1295e0265",
+      "bytes": 11094
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/palermo.json": {
+      "sha256": "b0e9c71bbfccc7e748c01b98eabd3493919f288bc9cfe98b47586b3f9d228779",
+      "bytes": 10713
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/parma.json": {
+      "sha256": "f09c2300e5831a8157fc797984096febdffe19d1aedd7aa2031b5d2a21b318b9",
+      "bytes": 11463
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/pavia.json": {
+      "sha256": "ca7d8c9f933f7646b175435c775f0d802d71fb97c22c4e8b677aa46cd7506232",
+      "bytes": 12083
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/perugia.json": {
+      "sha256": "8cc3123c34242a60cdad3eb9becca7a58415ffa8080c3362df87534522c5cc5c",
+      "bytes": 11239
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/pesaro.json": {
+      "sha256": "27f36e46a4ca2791797c5922afe967d6bf51ca5c3e45a2c66da4a2646ae2b85e",
+      "bytes": 11578
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/pescara.json": {
+      "sha256": "a82edbf2d4539463cf9bbdc5dbcb0bd74675b2a2e25d06b0ad98a8340297e1fd",
+      "bytes": 11294
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/piacenza.json": {
+      "sha256": "7be69f627b583177d27e408b8fe1ed1e5dd027b4222cf124a500b095b0bb743b",
+      "bytes": 11682
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/pisa.json": {
+      "sha256": "582f6ee6aafef8efaf0a41d8d8b615b1c548af9711e420bcdc3fb44b5d834684",
+      "bytes": 11984
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/pistoia.json": {
+      "sha256": "7c2a5d925554ddd14bc508a21bed652c90e53173ff6613d6b7f97746da488c95",
+      "bytes": 12669
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/pordenone.json": {
+      "sha256": "2b50a7a3cc55a07433aeef2782bc392b5a8d46a48928fd2085746c3f0d0c2d4f",
+      "bytes": 11198
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/potenza.json": {
+      "sha256": "4d2f01f9e3353d720b678abe8979521f32b85d1a319cd2d8a207ef1fc1dd66e9",
+      "bytes": 11519
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/prato.json": {
+      "sha256": "87074e440a3412658899c18938e53cddbae3cc0c810622f519b2c54094b220cc",
+      "bytes": 12760
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/ragusa.json": {
+      "sha256": "b897b0b0e15aefefaf68350e0e557a146e18f5e8c05c845a884fb47a84c9d6b0",
+      "bytes": 10359
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/ravenna.json": {
+      "sha256": "7f1c66a0b3a08ef6fd00fad08999a1ab7acf1c7894d56771e1e3132b4d94677a",
+      "bytes": 11598
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/reggio-calabria.json": {
+      "sha256": "54cf390ad8e87649009c48c8c84d64343fb9e953e6091f45bd94c8a148a5937c",
+      "bytes": 9976
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/reggio-emilia.json": {
+      "sha256": "f3db43ce9024cb15be2ca2ea1e17281a50d60386f9c8bb7ca4ed976d08c5f025",
+      "bytes": 11499
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/rieti.json": {
+      "sha256": "d60e6f3f8135146c1d0f2c20519ab7176a18e349473a1a8d40a9673e0d8a6897",
+      "bytes": 12550
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/rimini.json": {
+      "sha256": "ff26007f873985dfb13fd808e9f1e3ff7da5ebf7d96dbc1fff0bf4ad6e1f894d",
+      "bytes": 11218
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/roma.json": {
+      "sha256": "b35b1649c6d93b5c46537c848661f90142c3b8528ff9d6ba4f7deb2614a42b5b",
+      "bytes": 14275
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/rovigo.json": {
+      "sha256": "4c24e42f2b2c18c435585914ace1f3ff7401d5b518ae2c2b6b75ad9f9d7dfe88",
+      "bytes": 14191
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/salerno.json": {
+      "sha256": "06904e807ed6caa211b2a1cb0875ad203809d79629dd905f55088f4078bb4b7e",
+      "bytes": 12306
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/sassari.json": {
+      "sha256": "bea5e8026741834f92474aa260ca59cd22b592c0d1c8b58c20c0d55c1e1dec92",
+      "bytes": 8417
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/savona.json": {
+      "sha256": "f6e040ce50615cdeb3cdf05dd1ba681f15c2cb39d0f71429fb214b5b915e875f",
+      "bytes": 9209
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/siena.json": {
+      "sha256": "61974c93c7265fd69b938360af4326f13ae0f6f60b5ccb1a157b6a0709c58e45",
+      "bytes": 11224
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/siracusa.json": {
+      "sha256": "7af6b6e461eb5506d9a6120c6d7efce0aa627bc14ce8fc86894eb01b479aaf9f",
+      "bytes": 9360
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/sondrio.json": {
+      "sha256": "7e431513e580c82c7b0be406e0dd6e7bff2ac8524307ea285fa9d880bba9358b",
+      "bytes": 7324
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/taranto.json": {
+      "sha256": "6c0f051b08f7b6b8c982f937a9ab803a3de4a802692dc9ff989f7776e23540b8",
+      "bytes": 11483
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/teramo.json": {
+      "sha256": "1e8e8669afd9d9fe84709e47a315b4c75d7d62661538e4d851cfe0109a3c906e",
+      "bytes": 12277
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/terni.json": {
+      "sha256": "5294f981b6a1b3694595f22d7fcd70e40b79d63385529837fa8f869d34d6fc99",
+      "bytes": 13851
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/torino.json": {
+      "sha256": "f53adbd152e24e079b8d61b673fd423cde42f4b3b1455a4493320d3589977dec",
+      "bytes": 11870
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/trani.json": {
+      "sha256": "efd2b3b8d8b32b41e78fee56b431a05c5e149cc62a720e2fcb8df0d742776ce2",
+      "bytes": 11314
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/trapani.json": {
+      "sha256": "87da96524a6c77e4c237d5cd115ed74703b72a912eb5d1a2d12b4be0cf0ca8c4",
+      "bytes": 8765
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/trento.json": {
+      "sha256": "5f3fe1ecdffc49f565bb8a5745e97c27ad38af86f20d628a6f674b2415f3aa8c",
+      "bytes": 11313
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/treviso.json": {
+      "sha256": "973c15005d7e3e84409c10a7dfc80e4fc335264bc297a9a1932ceee493536a12",
+      "bytes": 11232
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/trieste.json": {
+      "sha256": "846ccf2a87b12754601d49dfea7785f8b103957de0fd35d4c8ce6aaf86385822",
+      "bytes": 6820
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/udine.json": {
+      "sha256": "09b27335b77e92b222f361b0f299be225bb443442a29ee4655536433311b60c2",
+      "bytes": 11121
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/varese.json": {
+      "sha256": "31f487797c799d030c97689a9f390f2d5b3dce146ff74d833755dcbd048a34f6",
+      "bytes": 11068
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/venezia.json": {
+      "sha256": "82fa94cdc174a24fc4c6409b73d069bce21dce667c5df8cc7f4eb6af6ef9b9c9",
+      "bytes": 11240
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/verbania.json": {
+      "sha256": "e9cc1082489ec01347c222f3daa1194f9ae1b6b00324ae1b60c768b8cf14855a",
+      "bytes": 10658
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/vercelli.json": {
+      "sha256": "15b3a05f2cd076575f812da77a7b59f76b5ae38815e99a09096eaa3cad38955b",
+      "bytes": 11363
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/verona.json": {
+      "sha256": "f7836842274be171b9e157b47d71114921a5c5f41830dbb58e0093223fb51c85",
+      "bytes": 13028
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/vibo-valentia.json": {
+      "sha256": "564d5a7078c44f6eb92ff84346616cb307350a6eddf7397e562f81f2401d29eb",
+      "bytes": 8804
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/vicenza.json": {
+      "sha256": "47326dce068c47aacbff08feb67618e84ec6ba370bbdfd29f1a2988bde3f8465",
+      "bytes": 12983
+    },
+    "snapshot/2026-11-07-4e9218451395/provincia/viterbo.json": {
+      "sha256": "07e8e3a9d0ef85166cd8c658cee1b7fe5a00e8cb3f1a18aaa07ed85804841c21",
+      "bytes": 16444
+    },
+    "snapshot/2026-11-07-4e9218451395/ranking-capoluoghi.json": {
+      "sha256": "9c5eaddc8ac49e7c6b19f74e397c5c64f75606b651ab202f853a8e342e448388",
+      "bytes": 2722
+    }
+  }
+}
