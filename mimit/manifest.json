@@ -1,21 +1,21 @@
 {
   "manifest_version": 1,
-  "extracted_on": "2026-11-08",
-  "prices_extracted_on": "2026-11-08",
-  "registry_extracted_on": "2026-11-08",
-  "prices_sha256": "5965a64596417e7a02171f40893d3f61201192a5156bc5ad61b1f72f40703c34",
-  "registry_sha256": "19c910eb57dcefbeaa4221e3ea6db034b94b4c295c8a44be5232170c03c415d6",
-  "prices_rows": 92773,
-  "registry_rows": 23953,
-  "prices_bytes": 3939349,
-  "registry_bytes": 3576298,
-  "candidate_pairs": 48308,
+  "extracted_on": "2026-11-09",
+  "prices_extracted_on": "2026-11-09",
+  "registry_extracted_on": "2026-11-09",
+  "prices_sha256": "862b53c7e0c2f9f0ed09a3110e7105f08c7a4d6e8220818e121bcf7a1b5b9377",
+  "registry_sha256": "e72fbfa1912a6966c6d6d0f74e0aae4c346a82a4c70517cd675a0abe4f9ae583",
+  "prices_rows": 92564,
+  "registry_rows": 23952,
+  "prices_bytes": 3930378,
+  "registry_bytes": 3576136,
+  "candidate_pairs": 48255,
   "pairs_by_fuel": {
-    "benzina": 21091,
-    "gasolio": 21134,
-    "gpl": 4587,
+    "benzina": 21073,
+    "gasolio": 21104,
+    "gpl": 4582,
     "metano": 1496
   },
-  "source_id": "38c9072f496392709ae4b439713611d474bd9abf0f2ba270b02aa3bea0cac397",
-  "source_synced_at": "2026-11-09T08:10:41.204Z"
+  "source_id": "5c92f63cf46ed75484f37abb9b39925f69429e9a87e5e962dd2b33cfe4cca696",
+  "source_synced_at": "2026-11-10T08:10:41.069Z"
 }
